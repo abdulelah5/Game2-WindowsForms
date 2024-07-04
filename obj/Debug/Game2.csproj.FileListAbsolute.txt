@@ -1,0 +1,20 @@
+C:\Users\Abdulelah\Desktop\Games\Game2\bin\Debug\Game2.exe.config
+C:\Users\Abdulelah\Desktop\Games\Game2\bin\Debug\Game2.exe
+C:\Users\Abdulelah\Desktop\Games\Game2\bin\Debug\Game2.pdb
+C:\Users\Abdulelah\Desktop\Games\Game2\obj\Debug\Game2.csprojAssemblyReference.cache
+C:\Users\Abdulelah\Desktop\Games\Game2\obj\Debug\Game2.Form1.resources
+C:\Users\Abdulelah\Desktop\Games\Game2\obj\Debug\Game2.Properties.Resources.resources
+C:\Users\Abdulelah\Desktop\Games\Game2\obj\Debug\Game2.csproj.GenerateResource.cache
+C:\Users\Abdulelah\Desktop\Games\Game2\obj\Debug\Game2.csproj.CoreCompileInputs.cache
+C:\Users\Abdulelah\Desktop\Games\Game2\obj\Debug\Game2.exe
+C:\Users\Abdulelah\Desktop\Games\Game2\obj\Debug\Game2.pdb
+C:\Users\Abdulelah\Desktop\My games\Game2\bin\Debug\Game2.exe.config
+C:\Users\Abdulelah\Desktop\My games\Game2\bin\Debug\Game2.exe
+C:\Users\Abdulelah\Desktop\My games\Game2\bin\Debug\Game2.pdb
+C:\Users\Abdulelah\Desktop\My games\Game2\obj\Debug\Game2.csprojAssemblyReference.cache
+C:\Users\Abdulelah\Desktop\My games\Game2\obj\Debug\Game2.Form1.resources
+C:\Users\Abdulelah\Desktop\My games\Game2\obj\Debug\Game2.Properties.Resources.resources
+C:\Users\Abdulelah\Desktop\My games\Game2\obj\Debug\Game2.csproj.GenerateResource.cache
+C:\Users\Abdulelah\Desktop\My games\Game2\obj\Debug\Game2.csproj.CoreCompileInputs.cache
+C:\Users\Abdulelah\Desktop\My games\Game2\obj\Debug\Game2.exe
+C:\Users\Abdulelah\Desktop\My games\Game2\obj\Debug\Game2.pdb
